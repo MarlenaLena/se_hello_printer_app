@@ -9,5 +9,5 @@ lint:
 test:
 		PYTHONPATH=. py.test --verbose -s
 
-run: 
+run:
 		python main.py
